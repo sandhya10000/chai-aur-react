@@ -87,7 +87,7 @@ function App() {
                 setCharAllowed((prev) => !prev);
               }}
             />
-            <label htmlFor="numberInput">Numbers</label>
+            <label htmlFor="numberInput">Characters</label>
           </div>
         </div>
       </div>
